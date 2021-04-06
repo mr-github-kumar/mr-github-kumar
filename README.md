@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kumar 👋
 
 <!--
 **mr-github-kumar/mr-github-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
